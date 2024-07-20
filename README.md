@@ -106,7 +106,7 @@ and then run it and click the link
 python3 app.py
 ```
 
-![webapp](./traffic/imgs/webapp.png)
+![webapp](./imgs/webapp.png)
 
 ## Final words
 
