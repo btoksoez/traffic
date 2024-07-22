@@ -103,7 +103,7 @@ pip install -r requirements.txt
 ```
 and then run it and click the link
 ```
-python3 app.py
+python3.11 app.py
 ```
 
 ![webapp](./imgs/webapp.png)
